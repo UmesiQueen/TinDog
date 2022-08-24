@@ -1,12 +1,10 @@
 # TinDog
-Udemy Web Development Boot Camp - Section 6
 
-This is a solution to the ...
+This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Section 6.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,20 +12,15 @@ This is a solution to the ...
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
 ## Overview
+  Angela focuses on Html elements tags and css properties, 
+using bootstrap and Font Awesome cdn links to improve website appearance.
 
-### The challenge
+### Screenshot
+ ![Alt text](images/Screenshot.png?raw=true "Optional Title")
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-
-![Alt text](images/Screenshot.png?raw=true "Optional Title")
 ### Links
-
-- View Solution URL: [Click Here!]()
-- View Live Site: [Click Here!]()
+- View Live Site: [Click Here!]( https://umesiqueen.github.io/TinDog/)
 
 ## My process
 
@@ -35,15 +28,15 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- 
+- BootStrap
+- Font Awesome
 
 ### What I learned
 
 
 ## Author
 
-- Website - [...]](null)
+- Website - [...](null)
 - Twitter - [@UmesiQueen](https://www.twitter.com/UmesiQueen)
 
 
